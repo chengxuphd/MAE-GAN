@@ -1,1 +1,1 @@
-# mae-gan
+# MAE-GAN
